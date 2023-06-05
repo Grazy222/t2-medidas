@@ -1,0 +1,54 @@
+* {
+  font-family: "Playfair Display", serif;
+}
+
+.primeiraSessao_em {
+  width: 400px;
+  height: 400px;
+  background-color: darkgray;
+  border: blueviolet solid;
+}
+.primeiraSessao_em div {
+  width: 250px;
+  height: 200px;
+  background-color: rgb(240, 182, 182);
+  text-align: center;
+  color: blue;
+  margin: 1em;
+  border: blue solid;
+}
+.segundaSessao_rem {
+  border: blueviolet solid;
+  width: 400px;
+  height: 400px;
+  background-color: darkgray;
+}
+.segundaSessao_rem div {
+  border: blue solid;
+  width: 250px;
+  height: 200px;
+  background-color: rgb(228, 141, 141);
+  margin: 1em;
+  text-align: center;
+}
+.terceiraSessao {
+  width: 90%;
+  height: 90%;
+  background-color: burlywood;
+}
+.terceiraSessao div {
+  border: blue solid;
+}
+.quartaSessao {
+  margin-top: 10px;
+  width: 400px;
+  height: 400px;
+  background-color: coral;
+  color: blue;
+  font-size: 1em;
+  text-align: center;
+  border: brown solid;
+}
+.quartaSessao div {
+  background-color: chartreuse;
+}
